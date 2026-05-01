@@ -27,14 +27,7 @@ Files: `task2.ipynb` | `task2.pdf`
 
 ---
 
- Task 3 — Advanced | IPL Fielding Data Analysis
 
-Analyzed Delhi Capitals fielding performance using weighted scoring formula.
-
-Best Fielder : Kuldeep Yadav (Score: 4.0)  
-Visuals      : Bar Charts, Pie Chart, Heatmap, Performance Score Chart  
-
-Files: `task3.ipynb` | `task3.pdf`
 
 
 
